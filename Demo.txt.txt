@@ -3,3 +3,6 @@ Hello Python.
 Python is easy language.
 
 Django is framework.
+
+
+Django REST Framework is an extension of Django.
