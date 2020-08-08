@@ -3,3 +3,5 @@ Hello Python.
 Python is easy language.
 
 Django is framework.
+
+Django is developed by using Python
